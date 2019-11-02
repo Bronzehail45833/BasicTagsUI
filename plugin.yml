@@ -1,0 +1,10 @@
+---
+name: BasicTagsUI
+version: 0.0.1
+main: SilverzPlayz\BasicTagsUI\Main
+api: 3.9.5
+author: SilverzPlayz
+commands:
+  tag:
+    description: Opens Tags Selector
+...
